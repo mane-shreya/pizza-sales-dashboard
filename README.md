@@ -82,15 +82,25 @@ Streamlit Community Cloud
 
 📂 Project Structure
 pizza-sales-dashboard/
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── assets/
+
 │   ├── bg.gif
+
 │   └── logo.png
+
 ├── src/
+
 │   ├── data_loader.py
+
 │   └── kpis.py
+
 └── README.md
+
 
 ⚙️ Installation & Setup (Run Locally)
 1️⃣ Clone the repository
@@ -172,3 +182,4 @@ Authentication for business users
 ❤️ If you like this project
 
 Give the repository a ⭐ on GitHub!
+
